@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vincent Papegay-Vallet, a Telecom Paris first year student (@vincent-pava) 
 - 👀 I’m interested in Quantum Physics, Cryptography, and Decentralised apps. 
 - 🌱 I’m currently learning Flask, Django, Javascript, Vue.js, CSS, HTML during my free time. 
-- 💞️ I’m looking to collaborate on nothing for the moment, but maybe some other day !
+- 💞️ I’m not looking to collaborate on anything for the moment.
 - 📫 How to reach me vincent@papegay-vallet.fr
 
 <!---
