@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Vincent Papegay-Vallet, a computer science and applied mathematics postgraduate student at Télécom Paris in France 🇫🇷 (@vincent-pava). 
+- 👋 Hi, I’m Vincent Papegay-Vallet, a computer science and applied mathematics postgraduate student at Télécom Paris 🇫🇷 (@vincent-pava). 
 
-- 👀 This Github contains personal projects, lab sessions projects and school projects. 
-
-- 📫 How to reach me vincent@papegay-vallet.fr
+- 📫 How to reach me : vincent@papegay-vallet.fr
 
 
 <!---
